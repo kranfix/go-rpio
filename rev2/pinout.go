@@ -51,14 +51,14 @@ const (
   BCM3  uint8 = Phys5
   BCM4  uint8 = Phys7
   BCM5  uint8 = Phys29
-  BCM6  uint8 = Phys37
+  BCM6  uint8 = Phys31
   BCM7  uint8 = Phys26
   BCM8  uint8 = Phys24
   BCM9  uint8 = Phys21
   BCM10 uint8 = Phys19
   BCM11 uint8 = Phys23
   BCM12 uint8 = Phys32
-  BCM13 uint8 = Phys32
+  BCM13 uint8 = Phys33
   BCM14 uint8 = Phys8
   BCM15 uint8 = Phys10
   BCM16 uint8 = Phys36
